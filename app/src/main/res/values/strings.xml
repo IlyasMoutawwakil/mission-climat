@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="appName">Mission : Code Green</string>
+    <string name="commencer">Commencer !</string>
+    <string name="scoreInfo">Votre Score !</string>
+    <string name="retourner">Fermer</string>
+
+    <string name="score">Votre empreinte carbone est réduite par %1$.01f kgCO2.</string>
+    <string name="noScore">Vous n\'avez pas encore réduit votre empreinte carbone</string>
+
+
+    <string name="choixCategorie">Choisissez une catégorie :</string>
+
+    <string name="missionInfo">Mission : %1$s \nDurée : %2$d jours.</string>
+    <string name="changerMission">Changer votre mission</string>
+    <string name="non">NON</string>
+    <string name="oui">OUI</string>
+
+    <string name="ouiEmpreinteCarbone">Grace à cette mission que vous allez réaliser, votre empreinte carbone sera réduite de %1$.01f kgCO2</string>
+    <string name="nonEmpreinteCarbone">Si vous avez accepté cette mission, votre empreinte carbone aurait pu être réduite de %1$.01f kgCO2</string>
+
+    <string name="ok">O9sim billah l3aly l3adim ta ndir lmission</string>
+    <string name="missionDetails">Détails de la mission :\n%1$s</string>
+    <string name="titre_empreinte_carbone">Empreinte Carbone</string>
+
+    <string name="test_texte">Test Texte</string>
+    <string name="accueil">Accueil</string>
+    <string name="reset">Reset</string>
+</resources>

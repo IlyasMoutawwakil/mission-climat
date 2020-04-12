@@ -1,0 +1,111 @@
+{"Energie" : [
+  {
+    "Titre" :  "Réduire votre consommation d'énergie de 20%",
+    "Mission" :  "Vous devrez économisez au moins 20% de l'électricité que vous utilisez déjà. Ainsi, vous participerez à réduire la demande en énergie et donc sa production.",
+    "Durée" : 30,
+    "Réduction d'empreinte CO2" :  200},
+  {
+    "Titre" :  "Eclairage économe en énergie",
+    "Mission" :  "Remplacez vos ampoules par des LEDs.",
+    "Durée" : 4,
+    "Réduction d'empreinte CO2" :  20},
+  {
+    "Titre" :  "Eteindre les lumières",
+    "Mission" :  "L'écran de votre téléviseur ou de votre ordinateur émet une lueur agréable. Eteignez donc les autres lampes si vous n'en avez pas besoin.",
+    "Durée" : 5,
+    "Réduction d'empreinte CO2" :  15},
+  {
+    "Titre" :  "Evitez de préchauffer le four",
+    "Mission" :  "Evitez de préchauffer le four. A moins que vous n'ayez besoin d'une température de cuisson précise, commencez à chauffer vos aliments dès que vous allumez le four.",
+    "Durée" : 2,
+    "Réduction d'empreinte CO2" :  15},
+  {
+    "Titre" :  "Effacer vos mails après lecture",
+    "Mission" :  "Les mails sont stockés sur des serveurs qui consomment énormément d'énergie. Désinscrivez-vous des newsletters qui ne vous intéressent pas et effacez les mails inutiles. ",
+    "Durée" : 365,
+    "Réduction d'empreinte CO2" :  145}
+],
+  "Vert" : [
+    {
+      "Titre" :  "Réduire le gaspillage d'eau",
+      "Mission" :  "Prendre des douches plus courtes, c'est à dire de 5 minutes. Utiliser l'eau du bain pour arroser les plantes. Fermez l'eau lors du brossage de dents.",
+      "Durée" : 4,
+      "Réduction d'empreinte CO2" :  20},
+    {
+      "Titre" :  "Ne jetez pas de déchets sur la route",
+      "Mission" :  "Ne jetez aucune corbeille de la poubelle sur la route.",
+      "Durée" : 5,
+      "Réduction d'empreinte CO2" :  15},
+    {
+      "Titre" :  "Ne pas prendre de couverts jetables.",
+      "Mission" :  "Lorsque vous manger à dehors, évitez de prendre serviettes, couteaux, assiettes et fourchettes jetables",
+      "Durée" : 3,
+      "Réduction d'empreinte CO2" :  15},
+    {
+      "Titre" :  "Prendre des douches courtes",
+      "Mission" :  "Ne pas prendre de bain car les baignoires nécessitent plus d'eau qu'une douche de 5 à 10 minutes. Réduire le temps de douche à 5 minutes.",
+      "Durée" : 3,
+      "Réduction d'empreinte CO2" :  10}
+  ],
+  "Santé" : [
+    {
+      "Titre" :  "Ne soyez plus hypnotisés ! ",
+      "Mission" :  "Réduire  votre consommation d'écrans de 30% par jours",
+      "Durée" : 4,
+      "Réduction d'empreinte CO2" :  11.25},
+    {
+      "Titre" :  "Devenir plus sportif",
+      "Mission" :  "En moyenne personne sportive à une empreinte carbone moins importante. Menez un mode de vie sain aide l'environnement ! Faites 30 minutes de marche par jour.",
+      "Durée" : 5,
+      "Réduction d'empreinte CO2" :  7.5},
+    {
+      "Titre" :  "Mangez moins de boeuf",
+      "Mission" :  "La production de viande est une des production les plus polluées. Ne mangez pas de viande rouge pendant un instant.",
+      "Durée" : 4,
+      "Réduction d'empreinte CO2" :  3.75}
+  ],
+  "Recyclage" : [
+    {
+      "Titre" :  "Organisez les déchets par type",
+      "Mission" :  "Le mauvais tri des déchets est un point faible majeur des systèmes de recyclage. Soyez précautionneux !",
+      "Durée" : 4,
+      "Réduction d'empreinte CO2" :  6},
+    {
+      "Titre" :  "Achetez des produits peu emballés",
+      "Mission" :  "Les produits moins emballées créent moins de déchets et moins de pollution, n'hésitez pas à leur donner la priorité.",
+      "Durée" : 3,
+      "Réduction d'empreinte CO2" :  6},
+    {
+      "Titre" :  "Utilisez une bouteille d'eau réutilisable",
+      "Mission" :  "Réutilisez votre bouteille d'eau vous coutera moins cher et sera une victoire pour l'environnement.",
+      "Durée" : 4,
+      "Réduction d'empreinte CO2" : 5},
+    {
+      "Titre" :  "Je colle un autocollant Stop-Pub sur ma boite au lettres",
+      "Mission" :  "Cette action arrête la publicité. Reduisez les déchets et emballages produits tout en vous libérant de la publicité oppressive.",
+      "Durée" : 1,
+      "Réduction d'empreinte CO2" : 4}
+  ],
+  "Action" : [
+    {
+      "Titre" :  "Demandez à vos amis d'utilisez cette application",
+      "Mission" :  "C'est mieux si vous faites les défis en groupe, famille, amis, voisins. Proposez-leur de participer à vos missions pour toujours plus d'impact !",
+      "Durée" : 4,
+      "Réduction d'empreinte CO2" :  10},
+    {
+      "Titre" :  "Refusez les pailles en plastique",
+      "Mission" :  "Lorsque vous allez au restaurant, au café ou dans un endroit pour prendre un verre, refusez d'utiliser des pailles en plastique et ne les achetez pas pour votre quotidien.",
+      "Durée" : 3,
+      "Réduction d'empreinte CO2" :  7.5},
+    {
+      "Titre" :  "Partagez des conseils et publications sur l'environnement",
+      "Mission" :  "Partagez des connaissances et des conseils en matière d'environement entre citoyens responsables est un moyen efficace d'apporter des changements. Commencez donc par collecter les meilleurs conseils puis partagez-les avec vos amis.",
+      "Durée" : 3,
+      "Réduction d'empreinte CO2" : 5},
+    {
+      "Titre" :  "Indignez-vous !",
+      "Mission" :  "Participez à la prochaine manifestation pour l'écologie. Allez-y en transports en commun.",
+      "Durée" : 1,
+      "Réduction d'empreinte CO2" :  10}
+  ]
+}
