@@ -1,4 +1,4 @@
-package com.example.actionouverite;
+package com.example.missionclimat;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
@@ -6,8 +6,8 @@ import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
-import com.example.actionouverite.challenge.Action;
-import com.example.actionouverite.challenge.Data;
+import com.example.missionclimat.challenge.Action;
+import com.example.missionclimat.challenge.Data;
 
 
 public class MissionActivity extends AppCompatActivity {

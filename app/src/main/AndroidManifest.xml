@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.actionouverite">
+    package="com.example.missionclimat">
 
     <application
         android:allowBackup="true"
@@ -16,7 +16,7 @@
             android:resource="@array/preloaded_fonts" />
 
         <activity
-            android:name=".AccueilActivity">
+            android:name="com.example.missionclimat.AccueilActivity">
             <intent-filter>
                 <action
                     android:name="android.intent.action.MAIN" />
@@ -26,13 +26,13 @@
         </activity>
 
         <activity
-            android:name=".CategoriesActivity" />
+            android:name="com.example.missionclimat.CategoriesActivity" />
 
         <activity
-            android:name=".MissionActivity" />
+            android:name="com.example.missionclimat.MissionActivity" />
 
         <activity
-            android:name=".EmpreinteActivity"/>
+            android:name="com.example.missionclimat.EmpreinteActivity"/>
 
     </application>
 

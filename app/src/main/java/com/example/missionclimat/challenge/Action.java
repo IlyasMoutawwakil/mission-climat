@@ -1,4 +1,4 @@
-package com.example.actionouverite.challenge;
+package com.example.missionclimat.challenge;
 
 import java.io.Serializable;
 

@@ -19,7 +19,7 @@
     <string name="ouiEmpreinteCarbone">Grace à cette mission que vous allez réaliser, votre empreinte carbone sera réduite de %1$.01f kgCO2</string>
     <string name="nonEmpreinteCarbone">Si vous avez accepté cette mission, votre empreinte carbone aurait pu être réduite de %1$.01f kgCO2</string>
 
-    <string name="ok">O9sim billah l3aly l3adim ta ndir lmission</string>
+    <string name="ok">OK</string>
     <string name="missionDetails">Détails de la mission :\n%1$s</string>
     <string name="titre_empreinte_carbone">Empreinte Carbone</string>
 

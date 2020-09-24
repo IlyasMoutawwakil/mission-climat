@@ -1,4 +1,4 @@
-package com.example.actionouverite.challenge;
+package com.example.missionclimat.challenge;
 
 import android.content.Context;
 import android.util.Log;
@@ -9,7 +9,6 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Iterator;
 import java.util.Random;
-import java.util.Vector;
 
 public class Data {
     private JSONObject jsonData;

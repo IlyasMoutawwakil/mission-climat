@@ -1,4 +1,4 @@
-package com.example.actionouverite;
+package com.example.missionclimat;
 
 import org.junit.Test;
 
